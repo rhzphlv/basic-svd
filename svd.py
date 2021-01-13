@@ -8,6 +8,7 @@ from numpy import linalg as lg
 #d4=Pemrograman Basis Data
 #d5=Matematika Diskrit
 #d6=Basis Data Relasional
+#output:urutan judul buku yang paling relevan ketika diberi input "algoritma pemrograman"
 
 
 #inisiasi matrix A, dokumen dan kata
